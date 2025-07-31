@@ -6,7 +6,7 @@ from fileinput import close
 #file = open('test.txt')  #give file path in brackets and store this in a object name file
 #print(file.read()) #will read all contents of file and print in output
 #print(file.read(5)) #this will read first 5 char of the file
-
+print("Just testing this code for git demo")
 #inorder to read one complete line
 #print(file.readline()) #will read first line
 #print(file.readline()) #will read second line
@@ -46,3 +46,6 @@ from fileinput import close
  #   print(i)
 
 #file.close()
+
+
+#just testing
