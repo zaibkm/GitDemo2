@@ -7,6 +7,9 @@ from fileinput import close
 #print(file.read()) #will read all contents of file and print in output
 #print(file.read(5)) #this will read first 5 char of the file
 
+print("Just testing this code for git demo1")
+print("Just testing this code for git demo2")
+
 #inorder to read one complete line
 #print(file.readline()) #will read first line
 #print(file.readline()) #will read second line
@@ -45,4 +48,11 @@ from fileinput import close
 #for i in file.readlines():
  #   print(i)
 
+<<<<<<< HEAD
 #file.close()
+=======
+#file.close()
+
+
+#just testing
+>>>>>>> 4fba2847ff394fd74a14a723d844fa6eadf43a9e
