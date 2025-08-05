@@ -9,7 +9,8 @@ from fileinput import close
 
 print("Just testing this code for git demo1")
 print("Just testing this code for git demo2")
-
+print("Just testing this code for git demo3")
+print("Just testing this code for git demo4")
 #inorder to read one complete line
 #print(file.readline()) #will read first line
 #print(file.readline()) #will read second line
